@@ -70,7 +70,6 @@ class SQLite
         $data->bindValue(":playerName", $playerName);
         $data->bindValue(":items", $items);
         $data->execute();
-
     }
 
     /**
