@@ -1,0 +1,7 @@
+name: Backpack
+version: 1.0
+api: 4.0.0
+author: mustafaturker1
+main: Backpack\BACKPACK
+depend: DEVirion
+description: Backpack plugin for PocketMine-MP API 4.0
